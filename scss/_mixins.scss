@@ -1,0 +1,11 @@
+@mixin accent-color {
+color: rgba(31, 152, 240, 1);
+}
+@mixin accent-bacgroundclr {
+  background-color: #1F98F0;
+}
+@mixin reset-list {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
